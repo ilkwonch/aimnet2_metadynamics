@@ -1,0 +1,25 @@
+REMARK  ACE                                                         
+ATOM      1 1HH3 ACE     1       1.901   1.285   0.714
+ATOM      2  CH3 ACE     1       1.997   2.252   0.231
+ATOM      3 2HH3 ACE     1       1.362   2.974   0.740
+ATOM      4 3HH3 ACE     1       1.673   2.173  -0.804
+ATOM      5  C   ACE     1       3.441   2.702   0.290
+ATOM      6  O   ACE     1       4.328   2.067   0.821
+ATOM      7  N   ALA     2       3.663   3.885  -0.324
+ATOM      8  H   ALA     2       2.903   4.452  -0.674
+ATOM      9  CA  ALA     2       4.946   4.545  -0.302
+ATOM     10  HA  ALA     2       5.492   4.188   0.579
+ATOM     11  CB  ALA     2       5.750   4.225  -1.570
+ATOM     12 1HB  ALA     2       5.207   4.565  -2.449
+ATOM     13 2HB  ALA     2       6.722   4.710  -1.546
+ATOM     14 3HB  ALA     2       5.894   3.150  -1.638
+ATOM     15  C   ALA     2       4.692   6.052  -0.221
+ATOM     16  O   ALA     2       3.619   6.538  -0.518
+ATOM     17  N   NME     3       5.758   6.773   0.172
+ATOM     18  H   NME     3       6.610   6.299   0.428
+ATOM     19  CH3 NME     3       5.735   8.212   0.272
+ATOM     20 1HH3 NME     3       4.744   8.544  -0.034
+ATOM     21 2HH3 NME     3       5.923   8.531   1.299
+ATOM     22 3HH3 NME     3       6.485   8.656  -0.385
+TER   
+END  
